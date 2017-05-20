@@ -1,0 +1,16 @@
+2016-12-31 23:53:55,799 [Thread-2:904] [blog.views:152] [views:read] [ERROR]- failure.html
+2016-12-31 23:53:59,663 [Thread-3:1732] [blog.views:152] [views:read] [ERROR]- failure.html
+2016-12-31 23:54:03,002 [Thread-4:7728] [blog.views:152] [views:read] [ERROR]- failure.html
+2017-01-02 10:03:01,750 [Thread-3:7800] [blog.views:104] [views:tag] [ERROR]- 'function' object has no attribute 'read_num'
+2017-01-02 10:05:15,507 [Thread-23:11584] [blog.views:104] [views:tag] [ERROR]- 'function' object has no attribute 'read_num'
+2017-01-02 10:11:58,710 [Thread-2:6728] [blog.views:155] [views:read] [ERROR]- 'Read' object has no attribute 'read_num'
+2017-01-02 10:12:31,595 [Thread-3:6564] [blog.views:155] [views:read] [ERROR]- 'Read' object has no attribute 'read_num'
+2017-01-02 10:13:16,200 [Thread-2:4088] [blog.views:155] [views:read] [ERROR]- 'Read' object has no attribute 'read_num'
+2017-01-02 10:13:39,355 [Thread-3:12892] [blog.views:155] [views:read] [ERROR]- 'Read' object has no attribute 'read_num'
+2017-01-02 10:15:20,838 [Thread-4:2548] [blog.views:155] [views:read] [ERROR]- 'Read' object has no attribute 'read_num'
+2017-01-02 10:34:49,826 [Thread-2:396] [blog.views:155] [views:read] [ERROR]- 'function' object has no attribute 'read_num'
+2017-01-02 10:34:53,819 [Thread-3:12152] [blog.views:155] [views:read] [ERROR]- 'function' object has no attribute 'read_num'
+2017-01-02 10:35:06,967 [Thread-5:12752] [blog.views:155] [views:read] [ERROR]- 'function' object has no attribute 'read_num'
+2017-01-02 10:35:10,482 [Thread-6:13052] [blog.views:155] [views:read] [ERROR]- 'function' object has no attribute 'read_num'
+2017-03-16 21:25:10,187 [Thread-3:8916] [blog.views:296] [views:comment_post] [ERROR]- 'CommentForm' object has no attribute 'is_vaild'
+2017-03-16 21:25:24,512 [Thread-7:11484] [blog.views:296] [views:comment_post] [ERROR]- 'CommentForm' object has no attribute 'is_vaild'
